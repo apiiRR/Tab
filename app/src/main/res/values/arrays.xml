@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localtem">
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+    </string-array>
+
+    <string-array name="descLocaltem">
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+    </string-array>
+
+    <string-array name="originLocaltem">
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+        <item>@string/apple</item>
+    </string-array>
+
+    <string-array name="imgLocaltem">
+        <item>@drawable/ic_android_blue_24dp</item>
+        <item>@drawable/ic_android_blue_24dp</item>
+        <item>@drawable/ic_android_blue_24dp</item>
+        <item>@drawable/ic_android_blue_24dp</item>
+        <item>@drawable/ic_android_blue_24dp</item>
+    </string-array>
+</resources>
